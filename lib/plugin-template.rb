@@ -1,7 +1,5 @@
-require "plugin-template/version"
-
-module Plugin
-  module Template
-    # Your code goes here...
-  end
+module PluginTemplate
+  require "plugin-template/version"
+  require "plugin-template/plugin"
+  require "plugin-template/controller_methods"
 end

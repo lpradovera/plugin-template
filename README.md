@@ -1,0 +1,2 @@
+Demo Plugin for Adhearsion
+==========================

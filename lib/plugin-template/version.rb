@@ -1,5 +1,3 @@
-module Plugin
-  module Template
-    VERSION = "0.0.1"
-  end
+module PluginTemplate
+  VERSION = "0.0.1"
 end

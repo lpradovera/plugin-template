@@ -4,9 +4,9 @@ require "plugin-template/version"
 
 Gem::Specification.new do |s|
   s.name        = "plugin-template"
-  s.version     = Plugin::Template::VERSION
-  s.authors     = ["Luca Pradovera"]
-  s.email       = ["luca.pradovera@gmail.com"]
+  s.version     = PluginTemplate::VERSION
+  s.authors     = ["Plugin Author"]
+  s.email       = ["author@plugin.com"]
   s.homepage    = ""
   s.summary     = %q{TODO: Write a gem summary}
   s.description = %q{TODO: Write a gem description}
